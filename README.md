@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamTanmayS
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning OOP in PYTHON
+- 🌱 I’m currently learning Open cv in PYTHON
 - 💞️ I’m looking to collaborate on Various open source projects
 - 📫 Have a convo with me tanmayshukla126@gmail.com
 
